@@ -1,197 +1,197 @@
-﻿Afghanistan,Kabul,0
-Albania,Tirana,1
-Algeria,Algiers,2
-Andorra,Andorra la Vella,3
-Angola,Luanda,4
-Antigua and Barbuda,St. John's,5
-Argentina,Buenos Aires,6
-Armenia,Yerevan,7
-Australia,Canberra,8
-Austria,Vienna,9
-Azerbaijan,Baku,10
-Bahamas,Nassau,11
-Bahrain,Manama,12
-Bangladesh,Dhaka,13
-Barbados,Bridgetown,14
-Belarus,Minsk,15
-Belgium,Brussels,16
-Belize,Belmopan,17
-Benin,Porto-Novo,Cotonou,18
-Bhutan,Thimphu,19
-Bolivia,La Paz,Sucre,20
-Bosnia and Herzegovina,Sarajevo,21
-Botswana,Gaborone,22
-Brazil,Brasília,23
-Brunei,Bandar Seri Begawan,24
-Bulgaria,Sofia,25
-Burkina Faso,Ouagadougou,26
-Burundi,Gitega,27
-Cabo Verde,Praia,28
-Cambodia,Phnom Penh,29
-Cameroon,Yaoundé,30
-Canada,Ottawa,31
-Central African Republic,Bangui,32
-Chad,N'Djamena,33
-Chile,Santiago,34
-China,Beijing,35
-Colombia,Bogotá,36
-Comoros,Moroni,37
-Costa Rica,San José,38
-Côte d'Ivoire,Yamoussoukro,39
-Croatia,Zagreb,40
-Cuba,Havana,41
-Cyprus,Nicosia,42
-Czechia,Prague,43
-Democratic Republic of the Congo,Kinshasa,44
-Denmark,Copenhagen,45
-Djibouti,Djibouti,46
-Dominica,Roseau,47
-Dominican Republic,Santo Domingo,48
-Ecuador,Quito,49
-Egypt,Cairo,50
-El Salvador,San Salvador,51
-Equatorial Guinea,Malabo,52
-Eritrea,Asmara,53
-Estonia,Tallinn,54
-Eswatini,Mbabane,Lobamba,55
-Ethiopia,Addis Ababa,56
-Fiji,Suva,57
-Finland,Helsinki,58
-France,Paris,59
-Gabon,Libreville,60
-Georgia,Tbilisi,61
-Germany,Berlin,62
-Ghana,Accra,63
-Greece,Athens,64
-Grenada,St. George's,65
-Guatemala,Guatemala City,66
-Guinea,Conakry,67
-Guinea-Bissau,Bissau,68
-Guyana,Georgetown,69
-Haiti,Port-au-Prince,70
-Honduras,Tegucigalpa,71
-Hungary,Budapest,72
-Iceland,Reykjavík,73
-India,New Delhi,74
-Indonesia,Jakarta,75
-Iran,Tehran,76
-Iraq,Baghdad,77
-Ireland,Dublin,78
-Israel,Jerusalem,79
-Italy,Rome,80
-Jamaica,Kingston,81
-Japan,Tokyo,82
-Jordan,Amman,83
-Kazakhstan,Astana,84
-Kenya,Nairobi,85
-Kiribati,Tarawa,86
-Kosovo,Pristina,87
-Kuwait,Kuwait City,88
-Kyrgyzstan,Bishkek,89
-Laos,Vientiane,90
-Latvia,Riga,91
-Lebanon,Beirut,92
-Lesotho,Maseru,93
-Liberia,Monrovia,94
-Libya,Tripoli,95
-Liechtenstein,Vaduz,96
-Lithuania,Vilnius,97
-Luxembourg,Luxembourg,98
-Madagascar,Antananarivo,99
-Malawi,Lilongwe,100
-Malaysia,Kuala Lumpur,Putrajaya,101
-Maldives,Malé,102
-Mali,Bamako,103
-Malta,Valletta,104
-Marshall Islands,Majuro,105
-Mauritania,Nouakchott,106
-Mauritius,Port Louis,107
-Mexico,Mexico City,108
-Micronesia,Palikir,109
-Moldova,Chișinău,110
-Monaco,Monaco,111
-Mongolia,Ulaanbaatar,112
-Montenegro,Podgorica,113
-Morocco,Rabat,114
-Mozambique,Maputo,115
-Myanmar,Naypyidaw,116
-Namibia,Windhoek,117
-Nauru,Yaren,118
-Nepal,Kathmandu,119
-Netherlands,Amsterdam,120
-New Zealand,Wellington,121
-Nicaragua,Managua,122
-Niger,Niamey,123
-Nigeria,Abuja,124
-North Korea,Pyongyang,125
-North Macedonia,Skopje,126
-Norway,Oslo,127
-Oman,Muscat,128
-Pakistan,Islamabad,129
-Palau,Ngerulmud,130
-Palestine,Ramallah,131
-Panama,Panama City,132
-Papua New Guinea,Port Moresby,133
-Paraguay,Asunción,134
-Peru,Lima,135
-Philippines,Manila,136
-Poland,Warsaw,137
-Portugal,Lisbon,138
-Qatar,Doha,139
-Republic of the Congo,Brazzaville,140
-Romania,Bucharest,141
-Russia,Moscow,142
-Rwanda,Kigali,143
-St. Kitts and Nevis,Basseterre,144
-St. Lucia,Castries,145
-St. Vincent and the Grenadines,Kingstown,146
-Samoa,Apia,147
-San Marino,San Marino,148
-Saudi Arabia,Riyadh,149
-São Tomé and Príncipe,São Tomé,150
-Senegal,Dakar,151
-Serbia,Belgrade,152
-Seychelles,Victoria,153
-Sierra Leone,Freetown,154
-Singapore,Singapore,155
-Slovakia,Bratislava,156
-Slovenia,Ljubljana,157
-Solomon Islands,Honiara,158
-Somalia,Mogadishu,159
-South Africa,Pretoria,Cape Town,Bloemfontein,160
-South Korea,Seoul,161
-South Sudan,Juba,162
-Spain,Madrid,163
-Sri Lanka,Sri Jayawardenepura Kotte,Colombo,164
-Sudan,Khartoum,165
-Suriname,Paramaribo,166
-Sweden,Stockholm,167
-Switzerland,Bern,168
-Syria,Damascus,169
-Taiwan,Taipei,170
-Tajikistan,Dushanbe,171
-Tanzania,Dodoma,172
-Thailand,Bangkok,173
-The Gambia,Banjul,174
-Timor-Leste,Dili,175
-Togo,Lomé,176
-Tonga,Nukuʻalofa,177
-Trinidad and Tobago,Port of Spain,178
-Tunisia,Tunis,179
-Türkiye,Ankara,180
-Turkmenistan,Ashgabat,181
-Tuvalu,Funafuti,182
-Uganda,Kampala,183
-Ukraine,Kyiv,184
-United Arab Emirates,Abu Dhabi,185
-United Kingdom,London,186
-United States of America,Washington D.C.,187
-Uruguay,Montevideo,188
-Uzbekistan,Tashkent,189
-Vanuatu,Port Vila,190
-Vatican City,Vatican City,191
-Venezuela,Caracas,192
-Vietnam,Hanoi,193
-Yemen,Sanaʿa,194
-Zambia,Lusaka,195
-Zimbabwe,Harar,196
+﻿0,Afghanistan,Kabul
+1,Albania,Tirana
+2,Algeria,Algiers
+3,Andorra,Andorra la Vella
+4,Angola,Luanda
+5,Antigua and Barbuda,St. John's
+6,Argentina,Buenos Aires
+7,Armenia,Yerevan
+8,Australia,Canberra
+9,Austria,Vienna
+10,Azerbaijan,Baku
+11,Bahamas,Nassau
+12,Bahrain,Manama
+13,Bangladesh,Dhaka
+14,Barbados,Bridgetown
+15,Belarus,Minsk
+16,Belgium,Brussels
+17,Belize,Belmopan
+18,Benin,Porto-Novo,Cotonou
+19,Bhutan,Thimphu
+20,Bolivia,La Paz,Sucre
+21,Bosnia and Herzegovina,Sarajevo
+22,Botswana,Gaborone
+23,Brazil,Brasília
+24,Brunei,Bandar Seri Begawan
+25,Bulgaria,Sofia
+26,Burkina Faso,Ouagadougou
+27,Burundi,Gitega
+28,Cabo Verde,Praia
+29,Cambodia,Phnom Penh
+30,Cameroon,Yaoundé
+31,Canada,Ottawa
+32,Central African Republic,Bangui
+33,Chad,N'Djamena
+34,Chile,Santiago
+35,China,Beijing
+36,Colombia,Bogotá
+37,Comoros,Moroni
+38,Costa Rica,San José
+39,Côte d'Ivoire,Yamoussoukro
+40,Croatia,Zagreb
+41,Cuba,Havana
+42,Cyprus,Nicosia
+43,Czechia,Prague
+44,Democratic Republic of the Congo,Kinshasa
+45,Denmark,Copenhagen
+46,Djibouti,Djibouti
+47,Dominica,Roseau
+48,Dominican Republic,Santo Domingo
+49,Ecuador,Quito
+50,Egypt,Cairo
+51,El Salvador,San Salvador
+52,Equatorial Guinea,Malabo
+53,Eritrea,Asmara
+54,Estonia,Tallinn
+55,Eswatini,Mbabane,Lobamba
+56,Ethiopia,Addis Ababa
+57,Fiji,Suva
+58,Finland,Helsinki
+59,France,Paris
+60,Gabon,Libreville
+61,Georgia,Tbilisi
+62,Germany,Berlin
+63,Ghana,Accra
+64,Greece,Athens
+65,Grenada,St. George's
+66,Guatemala,Guatemala City
+67,Guinea,Conakry
+68,Guinea-Bissau,Bissau
+69,Guyana,Georgetown
+70,Haiti,Port-au-Prince
+71,Honduras,Tegucigalpa
+72,Hungary,Budapest
+73,Iceland,Reykjavík
+74,India,New Delhi
+75,Indonesia,Jakarta
+76,Iran,Tehran
+77,Iraq,Baghdad
+78,Ireland,Dublin
+79,Israel,Jerusalem
+80,Italy,Rome
+81,Jamaica,Kingston
+82,Japan,Tokyo
+83,Jordan,Amman
+84,Kazakhstan,Astana
+85,Kenya,Nairobi
+86,Kiribati,Tarawa
+87,Kosovo,Pristina
+88,Kuwait,Kuwait City
+89,Kyrgyzstan,Bishkek
+90,Laos,Vientiane
+91,Latvia,Riga
+92,Lebanon,Beirut
+93,Lesotho,Maseru
+94,Liberia,Monrovia
+95,Libya,Tripoli
+96,Liechtenstein,Vaduz
+97,Lithuania,Vilnius
+98,Luxembourg,Luxembourg
+99,Madagascar,Antananarivo
+100,Malawi,Lilongwe
+101,Malaysia,Kuala Lumpur,Putrajaya
+102,Maldives,Malé
+103,Mali,Bamako
+104,Malta,Valletta
+105,Marshall Islands,Majuro
+106,Mauritania,Nouakchott
+107,Mauritius,Port Louis
+108,Mexico,Mexico City
+109,Micronesia,Palikir
+110,Moldova,Chișinău
+111,Monaco,Monaco
+112,Mongolia,Ulaanbaatar
+113,Montenegro,Podgorica
+114,Morocco,Rabat
+115,Mozambique,Maputo
+116,Myanmar,Naypyidaw
+117,Namibia,Windhoek
+118,Nauru,Yaren
+119,Nepal,Kathmandu
+120,Netherlands,Amsterdam
+121,New Zealand,Wellington
+122,Nicaragua,Managua
+123,Niger,Niamey
+124,Nigeria,Abuja
+125,North Korea,Pyongyang
+126,North Macedonia,Skopje
+127,Norway,Oslo
+128,Oman,Muscat
+129,Pakistan,Islamabad
+130,Palau,Ngerulmud
+131,Palestine,Ramallah
+132,Panama,Panama City
+133,Papua New Guinea,Port Moresby
+134,Paraguay,Asunción
+135,Peru,Lima
+136,Philippines,Manila
+137,Poland,Warsaw
+138,Portugal,Lisbon
+139,Qatar,Doha
+140,Republic of the Congo,Brazzaville
+141,Romania,Bucharest
+142,Russia,Moscow
+143,Rwanda,Kigali
+144,St. Kitts and Nevis,Basseterre
+145,St. Lucia,Castries
+146,St. Vincent and the Grenadines,Kingstown
+147,Samoa,Apia
+148,San Marino,San Marino
+149,Saudi Arabia,Riyadh
+150,São Tomé and Príncipe,São Tomé
+151,Senegal,Dakar
+152,Serbia,Belgrade
+153,Seychelles,Victoria
+154,Sierra Leone,Freetown
+155,Singapore,Singapore
+156,Slovakia,Bratislava
+157,Slovenia,Ljubljana
+158,Solomon Islands,Honiara
+159,Somalia,Mogadishu
+160,South Africa,Pretoria,Cape Town,Bloemfontein
+161,South Korea,Seoul
+162,South Sudan,Juba
+163,Spain,Madrid
+164,Sri Lanka,Sri Jayawardenepura Kotte,Colombo
+165,Sudan,Khartoum
+166,Suriname,Paramaribo
+167,Sweden,Stockholm
+168,Switzerland,Bern
+169,Syria,Damascus
+170,Taiwan,Taipei
+171,Tajikistan,Dushanbe
+172,Tanzania,Dodoma
+173,Thailand,Bangkok
+174,The Gambia,Banjul
+175,Timor-Leste,Dili
+176,Togo,Lomé
+177,Tonga,Nukuʻalofa
+178,Trinidad and Tobago,Port of Spain
+179,Tunisia,Tunis
+180,Türkiye,Ankara
+181,Turkmenistan,Ashgabat
+182,Tuvalu,Funafuti
+183,Uganda,Kampala
+184,Ukraine,Kyiv
+185,United Arab Emirates,Abu Dhabi
+186,United Kingdom,London
+187,United States of America,Washington D.C.
+188,Uruguay,Montevideo
+189,Uzbekistan,Tashkent
+190,Vanuatu,Port Vila
+191,Vatican City,Vatican City
+192,Venezuela,Caracas
+193,Vietnam,Hanoi
+194,Yemen,Sanaʿa
+195,Zambia,Lusaka
+196,Zimbabwe,Harar
