@@ -3,7 +3,7 @@ import random
 class GameInfo:
     
     def makeDicts(self, countries, capitals):
-        file = open("capitals-game/Capitals.txt")
+        file = open("Capitals.txt")
         for line in file:
             split = line.split()
             countries[int(split[0])] = split[1] 
@@ -18,6 +18,6 @@ class GameInfo:
         self.capitalDict = {}
         self.toAsk = [range(0, 198)]
         self.incorrect = []
-        
+
         self.makeDicts(self.countryDict, self.capitalDict)
         random.shuffle(self.toAsk)

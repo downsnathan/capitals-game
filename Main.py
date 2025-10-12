@@ -17,7 +17,7 @@ def showMap(index):
         figh = float(h)/(t-b)
         ax.figure.set_size_inches(figw, figh)
 
-    image = Image.open("capitals-game/Images/MapChart_Map (" + str(index) + ").jpeg")
+    image = Image.open("Images/MapChart_Map (" + str(index) + ").jpeg")
     fig, ax=plt.subplots()
     ax.plot([1,3,2])
     set_size(15,15)
