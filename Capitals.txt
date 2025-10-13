@@ -21,23 +21,23 @@
 20,Bolivia,La Paz,Sucre
 21,Bosnia and Herzegovina,Sarajevo
 22,Botswana,Gaborone
-23,Brazil,Brasília
+23,Brazil,Brasilia
 24,Brunei,Bandar Seri Begawan
 25,Bulgaria,Sofia
 26,Burkina Faso,Ouagadougou
 27,Burundi,Gitega
 28,Cabo Verde,Praia
 29,Cambodia,Phnom Penh
-30,Cameroon,Yaoundé
+30,Cameroon,Yaounde
 31,Canada,Ottawa
 32,Central African Republic,Bangui
 33,Chad,N'Djamena
 34,Chile,Santiago
 35,China,Beijing
-36,Colombia,Bogotá
+36,Colombia,Bogota
 37,Comoros,Moroni
-38,Costa Rica,San José
-39,Côte d'Ivoire,Yamoussoukro
+38,Costa Rica,San Jose
+39,Cote d'Ivoire,Yamoussoukro
 40,Croatia,Zagreb
 41,Cuba,Havana
 42,Cyprus,Nicosia
@@ -108,7 +108,7 @@
 107,Mauritius,Port Louis
 108,Mexico,Mexico City
 109,Micronesia,Palikir
-110,Moldova,Chișinău
+110,Moldova,Chisinau
 111,Monaco,Monaco
 112,Mongolia,Ulaanbaatar
 113,Montenegro,Podgorica
@@ -132,7 +132,7 @@
 131,Palestine,Ramallah
 132,Panama,Panama City
 133,Papua New Guinea,Port Moresby
-134,Paraguay,Asunción
+134,Paraguay,Asuncion
 135,Peru,Lima
 136,Philippines,Manila
 137,Poland,Warsaw
@@ -148,7 +148,7 @@
 147,Samoa,Apia
 148,San Marino,San Marino
 149,Saudi Arabia,Riyadh
-150,São Tomé and Príncipe,São Tomé
+150,Sao Tome and Principe,Sao Tome
 151,Senegal,Dakar
 152,Serbia,Belgrade
 153,Seychelles,Victoria
@@ -174,11 +174,11 @@
 173,Thailand,Bangkok
 174,The Gambia,Banjul
 175,Timor-Leste,Dili
-176,Togo,Lomé
-177,Tonga,Nukuʻalofa
+176,Togo,Lome
+177,Tonga,Nuku'alofa
 178,Trinidad and Tobago,Port of Spain
 179,Tunisia,Tunis
-180,Türkiye,Ankara
+180,Turkiye,Ankara
 181,Turkmenistan,Ashgabat
 182,Tuvalu,Funafuti
 183,Uganda,Kampala
@@ -192,6 +192,6 @@
 191,Vatican City,Vatican City
 192,Venezuela,Caracas
 193,Vietnam,Hanoi
-194,Yemen,Sanaʿa
+194,Yemen,Sana'a
 195,Zambia,Lusaka
 196,Zimbabwe,Harar

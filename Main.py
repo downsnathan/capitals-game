@@ -70,5 +70,5 @@ def game():
     clear_output()
     showScore(info)
     showMap("blank")
-    time = int(time.time() - start)
+    gameLength = int(time.time() - start)
     print("Time: " + time)
