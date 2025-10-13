@@ -30,5 +30,4 @@ class GameInfo:
         for i in range(0, 198):
             self.toAsk.append(i)
         random.shuffle(self.toAsk)
-        print(self.toAsk)
 

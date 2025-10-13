@@ -20,7 +20,7 @@ def showMap(index):
     image = Image.open("Images/MapChart_Map (" + str(index) + ").jpeg")
     fig, ax=plt.subplots()
     ax.plot([1,3,2])
-    set_size(15,15)
+    set_size(10,10)
     plt.xticks([])
     plt.yticks([])
 
@@ -61,6 +61,7 @@ def questionAnswer(info, index):
 
 def game():
     info = GameInfo()
+    clear_output()
     showMap("blank")
     input("Type y to begin: ")
     start = time.time()
