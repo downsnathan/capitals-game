@@ -26,7 +26,7 @@ def showMap(index): #index of country or "blank map" for map without any country
     image = Image.open("Images/MapChart_Map (" + str(index) + ").jpeg")
     fig, ax=plt.subplots()
     ax.plot([1,3,2])
-    set_size(10,10)
+    set_size(6,6)
     plt.xticks([])
     plt.yticks([])
 
