@@ -5,13 +5,10 @@ from GameInfo import GameInfo
 import time
 
 try:
-  import google.colab
+  from google.colab  import output
   IN_COLAB = True
 except:
   IN_COLAB = False
-
-if IN_COLAB:
-    from IPython.core.display import clear_output
 
 
 def showMap(index): #index of country or "blank map" for map without any country highlighted
@@ -43,7 +40,7 @@ def askQuestion(info, index):
     #info.capitalDict[index] = correct answers
     for posScore in range(3, 0, -1):
         if IN_COLAB:
-            clear_output()
+            output.clear()
         showScore(info)
         showMap(index)
         if posScore < 3:
@@ -74,7 +71,7 @@ def askQuestion(info, index):
 def game():
     info = GameInfo()
     if IN_COLAB:
-        clear_output()
+        output.clear()
     startGame = True
     while startGame:
         showMap("blank")
@@ -85,7 +82,7 @@ def game():
             index = info.toAsk.pop(0)
             askQuestion(info, index)
         if IN_COLAB:
-            clear_output()
+            output.clear()
         showScore(info)
         gameLength = int(time.time() - start)
         info.previousScores[len(info.previousScores)] = (str(len(info.previousScores)), str(info.score), str(gameLength))
