@@ -16,7 +16,7 @@ class GameInfo:
                     capitals[int(split[0])].append(split[i])
 
     def newGame(self):
-        for i in range(0, 198):
+        for i in range(0, 197):
             self.toAsk.append(i)
         random.shuffle(self.toAsk)
 
