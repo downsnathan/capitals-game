@@ -44,6 +44,7 @@ def questionAnswer(info, index):
                 for i in range(0, len(info.capitalSict[index])):
                     hint[i][-1] = info.capitalDict[index][i][-1]
             print("Hint: " + hint)
+        time.sleep(.5)
         response = input("Capital: ")
         if response in info.capitalDict[index]:
             print("Correct!")
@@ -63,7 +64,8 @@ def game():
     info = GameInfo()
     clear_output()
     showMap("blank")
-    input("Type y to begin: ")
+    time.sleep(.5)
+    start = input("Type y to begin: ")
     start = time.time()
     while len(info.toAsk) > 0:
         index = info.toAsk.pop(0)
