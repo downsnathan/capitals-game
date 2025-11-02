@@ -32,7 +32,4 @@ class GameInfo:
         self.previousScores = {}
 
         self.makeDicts(self.countryDict, self.capitalDict)
-        for i in range(0, 197):
-            self.toAsk.append(i)
-        random.shuffle(self.toAsk)
 
