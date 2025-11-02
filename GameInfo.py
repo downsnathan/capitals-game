@@ -16,15 +16,15 @@ class GameInfo:
                     capitals[int(split[0])].append(split[i])
 
     def newGame(self):
-        for i in range(0, 197):
+        for i in range(0, maxCorrect):
             self.toAsk.append(i)
         random.shuffle(self.toAsk)
 
     def __init__(self):
         self.score = 0
         self.correct = 0
-        self.maxCorrect = 197
-        self.maxScore = 197 * 3
+        self.maxCorrect = 6
+        self.maxScore = maxCorrect * 3
         self.countryDict = {} #map index to country
         self.capitalDict = {} #map index to capital(s)
         self.toAsk = []
