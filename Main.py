@@ -87,7 +87,7 @@ def game():
             output.clear()
         showScore(info)
         gameLengthSecs = int(time.time() - start)
-        gameLength = "" + str(gameLengthSces / 60) + ":" + str(gameLengthSecs % 60)
+        gameLength = "" + str(gameLengthSecs / 60) + ":" + str(gameLengthSecs % 60)
         info.previousScores.append((str(len(info.previousScores)), str(info.score), str(gameLength)))
         print("Time: " + str(gameLength))
         print("Incorrect Countries: ")
