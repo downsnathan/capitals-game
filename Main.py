@@ -66,7 +66,7 @@ def askQuestion(info, index):
         else:
             print("Incorrect")
             time.sleep(1)
-    info.incorrect.append(info.countries[index])
+    info.incorrect.append(info.countryDict[index])
     print("You ran out of attempts")
 
 def game():
