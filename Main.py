@@ -88,7 +88,7 @@ def game():
         showScore(info)
         gameLengthSecs = int(time.time() - start)
         gameLength = "" + str(gameLengthSecs / 60) + ":" + str(gameLengthSecs % 60)
-        info.previousScores.append((str(len(info.previousScores)), str(info.score), str(gameLength)))
+        info.previousScores[len(previousScores)] = (str(len(info.previousScores)), str(info.score), str(gameLength)))
         print("Time: " + str(gameLength))
         print("Incorrect Countries: ")
         for i in info.incorrect:
@@ -98,7 +98,7 @@ def game():
         input("To move on to the scores screen, type y: ")
         print("Attempt              Score               Time")
         for i in info.previousScores:
-            print(i[0] + "                  " + i[1] + "                " + i[2])
+            print(info.previousScores[i[0]] + "                  " + info.previousScores[i[1]] + "                " + previousScores[i[2]])
         print()
         print()
         response = input("Type y to try again or q to quit: ")
