@@ -71,7 +71,7 @@
 70,Haiti,port-au-prince
 71,Honduras,tegucigalpa
 72,Hungary,budapest
-73,Iceland,reykjav�k
+73,Iceland,reykjavik
 74,India,new delhi
 75,Indonesia,jakarta
 76,Iran,tehran
@@ -100,7 +100,7 @@
 99,Madagascar,antananarivo
 100,Malawi,lilongwe
 101,Malaysia,kuala lumpur,putrajaya
-102,Maldives,mal�
+102,Maldives,male
 103,Mali,bamako
 104,Malta,valletta
 105,Marshall Islands,majuro
@@ -194,4 +194,4 @@
 193,Vietnam,hanoi
 194,Yemen,sana'a
 195,Zambia,lusaka
-196,Zimbabwe,harar
+196,Zimbabwe,harare
