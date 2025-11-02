@@ -86,9 +86,9 @@ def game():
         if IN_COLAB:
             output.clear()
         showScore(info)
-        gameLength = int(time.time() - start)
-        
-        info.previousScores[len(info.previousScores)] = (str(len(info.previousScores)), str(info.score), str(gameLength))
+        gameLengthSecs = int(time.time() - start)
+        gameLength = "" + str(gameLengthSces / 60) + ":" + str(gameLengthSecs % 60)
+        info.previousScores.append((str(len(info.previousScores)), str(info.score), str(gameLength)))
         print("Time: " + str(gameLength))
         print("Incorrect Countries: ")
         for i in info.incorrect:
