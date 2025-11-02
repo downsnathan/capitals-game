@@ -74,6 +74,7 @@ def game():
         output.clear()
     startGame = True
     while startGame:
+        info.newGame()
         showMap("blank")
         time.sleep(.5)
         start = input("Type y to begin: ")
