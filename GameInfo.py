@@ -19,6 +19,9 @@ class GameInfo:
         for i in range(0, self.maxCorrect):
             self.toAsk.append(i)
         random.shuffle(self.toAsk)
+        self.incorrect = []
+        self.score = 0
+        self.correct = 0
 
     def __init__(self):
         self.score = 0
