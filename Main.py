@@ -66,7 +66,7 @@ def askQuestion(info, index):
         else:
             print("Incorrect")
             time.sleep(1)
-    info.incorrect.append(index)
+    info.incorrect.append(info.countries[index])
     print("You ran out of attempts")
 
 def game():
@@ -87,9 +87,9 @@ def game():
             output.clear()
         showScore(info)
         gameLengthSecs = int(time.time() - start)
-        gameLength = "" + str(gameLengthSecs / 60) + ":" + str(gameLengthSecs % 60)
+        gameLength = "" + str(int(gameLengthSecs / 60)) + ":" + str(gameLengthSecs % 60)
         info.previousScores[len(info.previousScores)] = (str(len(info.previousScores)), str(info.score), str(gameLength))
-        print("Time: " + str(gameLength))
+        print("Time: " + gameLength)
         print("Incorrect Countries: ")
         for i in info.incorrect:
           print(i)
@@ -98,7 +98,7 @@ def game():
         input("To move on to the scores screen, type y: ")
         print("Attempt              Score               Time")
         for i in info.previousScores:
-            print(info.previousScores[i[0]] + "                  " + info.previousScores[i[1]] + "                " + previousScores[i[2]])
+            print(info.previousScores[i][0] + "                  " + info.previousScores[i][1] + "                " + info.previousScores[i][2])
         print()
         print()
         response = input("Type y to try again or q to quit: ")
