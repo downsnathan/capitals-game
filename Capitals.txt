@@ -3,7 +3,7 @@
 2,Algeria,algiers
 3,Andorra,andorra la vella
 4,Angola,luanda
-5,Antigua and Barbuda,st. john's
+5,Antigua and Barbuda,st. john's,st john's
 6,Argentina,buenos aires
 7,Armenia,yerevan
 8,Australia,canberra
@@ -16,7 +16,7 @@
 15,Belarus,minsk
 16,Belgium,brussels
 17,Belize,belmopan
-18,Benin,porto-novo,cotonou
+18,Benin,porto-novo,cotonou,porto novo
 19,Bhutan,thimphu
 20,Bolivia,la paz,sucre
 21,Bosnia and Herzegovina,sarajevo
@@ -63,12 +63,12 @@
 62,Germany,berlin
 63,Ghana,accra
 64,Greece,athens
-65,Grenada,st. george's
+65,Grenada,st. george's,st george's
 66,Guatemala,guatemala city
 67,Guinea,conakry
 68,Guinea-Bissau,bissau
 69,Guyana,georgetown
-70,Haiti,port-au-prince
+70,Haiti,port-au-prince,port au prince
 71,Honduras,tegucigalpa
 72,Hungary,budapest
 73,Iceland,reykjavik
@@ -185,7 +185,7 @@
 184,Ukraine,kyiv
 185,United Arab Emirates,abu dhabi
 186,United Kingdom,london
-187,United States of America,washington d.c.
+187,United States of America,washington d.c.,washington dc
 188,Uruguay,montevideo
 189,Uzbekistan,tashkent
 190,Vanuatu,port vila
